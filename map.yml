@@ -1,0 +1,3 @@
+map_name: arena_of_death2
+games:
+- {game_name: Arena of Death 2, file_name: arena_of_death2.xml}
